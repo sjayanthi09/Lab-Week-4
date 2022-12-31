@@ -1,0 +1,97 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "e5b2fc94-1315-4278-bd1d-84f9856a2738",
+   "metadata": {},
+   "source": [
+    "# My Jupyter Notebook on IBM Watson Studio"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "2f8251a1-6f9c-46e5-846e-42874dc76333",
+   "metadata": {},
+   "source": [
+    "**Shekhar Jayanthi**  \n",
+    "Data Scientist"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "bacc73f6-17ba-4613-8f87-1d6aabfc3906",
+   "metadata": {},
+   "source": [
+    "I am interested in data science because I want to discover patterns underlying datsets. This can enable decision-makers to make sound decisions."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "153005c6-bf0b-42bf-81e4-75b18818b7b1",
+   "metadata": {},
+   "source": [
+    "### This code is a trial run."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "94136d6b-ac3e-4318-8860-915253788c6b",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "1.4142135623730951"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "2**.5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "28dcc51d-a3c6-45a7-8413-438d096a00da",
+   "metadata": {},
+   "source": [
+    "1. Pen\n",
+    "2. Pencil\n",
+    "3. Ruler\n",
+    "\n",
+    "* Mercury\n",
+    "* Venus\n",
+    "* Earth\n",
+    "\n",
+    "https://www.google.com/  \n",
+    "https://www.yahoo.com/  \n",
+    "https://giburu.com/"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
